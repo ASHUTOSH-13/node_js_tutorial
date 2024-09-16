@@ -20,27 +20,11 @@ app.get("/paneer", function (req, res) {
   res.send(paneer);
 });
 
-app.post("./person", function (req, res) {
- 
-});
+app.post("./person", function (req, res) {});
 
 app.listen(3000, () => {
   console.log("server is listening on port on 3000"); // this messege actually shows that our server is live......
 }); // the port number on which we get the following response.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // there are lot of method by which client and server sends and recieves the data according to their needs :
 // 1. GET   2. POST   3. PATCH  4. DELETE
@@ -56,13 +40,13 @@ app.listen(3000, () => {
 
 // app.post("./person", function (req, res) {
 //   const data = req.body; // assuming that the request body contains the person data ...
-  //const newperson = new person();
-  // newperson.name = data.name;
-  // newperson.work = data.work;
-  // newperson.email = data.email;
-  // newperson.address = data.address;
-  // newperson.salary = data.salary;
-  // newperson.age = data.age;  // instead of writing this much we simply do it other way
+//const newperson = new person();
+// newperson.name = data.name;
+// newperson.work = data.work;
+// newperson.email = data.email;
+// newperson.address = data.address;
+// newperson.salary = data.salary;
+// newperson.age = data.age;  // instead of writing this much we simply do it other way
 //   const newperson = new person(data); // data has been filled in this newperson variable
 //   newperson.save((error, person) => {
 //     if (error) {
@@ -74,3 +58,5 @@ app.listen(3000, () => {
 //     }
 //   });
 // });
+
+// currently working on this file
