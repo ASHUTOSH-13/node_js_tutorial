@@ -1,0 +1,55 @@
+JAVASCRIPT QUESTIONS FOR INTERVIEW
+
+
+what is JavaScript? how does JavaScript engine works?
+what is hoisting?
+what is the scope of the variable?
+what are different types of datatypes?
+what is client side and server side?
+difference between primitive and non-primitive datatypes?
+what is the difference between NULL and undefined?
+what is the typeof operator?
+what is type coercion in js?
+what is operation precedence? (BODMAS)
+difference between unary, binary and ternary operator.
+short-circuit evaluation in js. ---> using the shortest path.
+what is operator precedence?
+types of conditional statement in js?
+difference between == and ===?
+what is the difference between spread and rest operator?
+what are array is js? how to get, add, remove element from the array?
+difference between find and filter function?
+what is slice method? --> subset of the array from start element to end element, end element not included.
+what is difference between push and concat method in js?
+difference between pop and shift method?
+what is splice method in js?
+difference between slice and splice?
+difference between map and foreach array method in js?
+how do you sort and reverse an array?
+what is array destructing in js?
+what are array like objects?
+types of functions in js?
+what is difference between named and anonymous function? when to use what in application?
+what is function expression in js?
+what are arrow functions in js? when we use it?
+what are callback functions and what are its use? ---> function that is passed as an argument to another function.
+what is higher order function in js?
+what is the difference between parameter and argument? --> parameter are the actual placeholder in the function declaration, whereas arguments are the actual values that being passed when the function is called or invoked.
+what is the use of event handling in js? --> process of responding to user actions on a web page, this is done using add event listener that allows you to attach a event that you want to perform on the that event, with the function.
+what are pure and impure function in js? --> pure functions are functions that produce the same output for the same input every time, whereas impure functions are those that do not produce the same output for the same input every time. pure function cannot modify the state but the impure function can modify the state.
+what is function currying in js? --> transform a function with multiple argument in a series of nested series of function each taking a single argument. adv. reusability, modularity, specialization.
+what are call, apply and bind method in js?
+what are template literals and string interpolation in strings? putting statement inside the backticks are template literals.
+what is the difference between double quotes, single quotes and backticks? --> single and double quotes are used for string declaration both are same but the backticks are used in template literals.
+how can you concatenate string? --> +, concat, literals, join.
+
+
+
+
+
+
+
+
+
+
+ 
